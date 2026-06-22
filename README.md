@@ -22,6 +22,8 @@ All of your physics calculations can be done with say `DVector3Di16` for a 300~ 
 
 You can spend your time simply working in Euler space using degrees & centimetres. 
 
+This is a header-like library. I do have .cpp files, but as long as you plop it in your project, you should have zero issues. I have used it thusfar with Visual Studio C++, and either Clang or G++, I don't know what I am using on Linux. 
+
 # Pull Requests
 If you want to contribute to the library, I will incorporate changes. If you PR is complicated, please explain what algorithms you're using in your PR, or other complicated things. 
 I'm not a Linear Algebra expert. 
